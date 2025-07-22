@@ -2,8 +2,6 @@ const CACHE_NAME = "football-pwaa";
 const urlsToCache = [
     '/',
     '/template.html',
-    '/img/ron.jpeg',
-    '/manifest.json'
   ];
   
 
