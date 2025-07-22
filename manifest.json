@@ -1,7 +1,7 @@
 {
     "name": "Роналдо project",
     "short_name": "Роналдо PWA",
-    "start_url": "/template.html",
+    "start_url": "/index.html",
 
     "display": "standalone",
     "background_color": "#ffffff",
