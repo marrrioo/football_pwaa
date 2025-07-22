@@ -7,17 +7,6 @@
     "background_color": "#ffffff",
     "theme_color": "#003366",
     "description": "Информация о Роналдо",
-    "icons": [
-      {
-        "src": "ron-192.jpg",
-        "type": "/icon-192.jpg",
-        "sizes": "192x192"
-      },
-      {
-        "src": "ron-512.jpg",
-        "type": "/ron-512.jpg",
-        "sizes": "512x512"
-      }
     ]
   }
   
