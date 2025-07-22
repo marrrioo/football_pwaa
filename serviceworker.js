@@ -1,4 +1,4 @@
-const CACHE_NAME = "football-pwa";
+const CACHE_NAME = "football-pwaa";
 const urlsToCache = [
     '/',
     '/template.html',
